@@ -1,0 +1,7 @@
+{
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004215-fmriprep/sourcedata/raw/sub-ON26309/ses-01/anat/sub-ON26309_ses-01_acq-MPRAGE_T1w.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds004215-fmriprep/sourcedata/raw/sub-ON26309/ses-01/anat/sub-ON26309_ses-01_acq-MPRAGE_rec-SCIC_T1w.nii.gz"
+  ],
+  "Type": "Brain"
+}
